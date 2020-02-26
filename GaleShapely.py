@@ -1,9 +1,9 @@
 # Jordan Gelber
 # February 7, 2020
 # CS 371: Algorithm Design and Analysis
-# Gale-Shapely Stable Matching Implementation
+# Gale-Shapley Stable Matching Implementation
 
-# This program computes a stable matching using an implementation of the Gale-Shapely
+# This program computes a stable matching using an implementation of the Gale-Shapley
 # algorithm. The program is given a user input in the form below:
 # n
 # mX wA wB
